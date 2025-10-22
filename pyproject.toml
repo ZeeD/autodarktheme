@@ -15,6 +15,9 @@ classifiers = [
 dependencies = [
     "pyside6-essentials>=6.7.2",
 ]
+urls.Homepage = "https://github.com/ZeeD/autodarktheme"
+urls.Repository = "https://github.com/ZeeD/autodarktheme.git"
+gui-scripts.movs-viewer = "autodarktheme.main:main"
 
 [dependency-groups]
 dev = [
